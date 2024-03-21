@@ -24,3 +24,4 @@
 *.gz*
 *replica*
 *.log*
+*logs*
