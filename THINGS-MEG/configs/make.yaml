@@ -1,0 +1,10 @@
+
+
+defaults:
+  - hydra : default
+  - custom : default
+
+overwrite: True # True or False
+make_type: preproc # preproc or custom
+category_overlap: True # True or False
+participants: [1, 2, 3]

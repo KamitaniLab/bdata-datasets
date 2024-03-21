@@ -1,0 +1,12 @@
+overwrite: true
+make_type: custom
+category_overlap: true
+participants:
+- 1
+custom:
+  bids_dir: /home/share/data/meg_shared/openneuro/THINGS-MEG/2.0.0/
+  l_freq: 0.1
+  h_freq: 40
+  pre_stim_time: -0.5
+  post_stim_time: 1.0
+  output_resolution: 200

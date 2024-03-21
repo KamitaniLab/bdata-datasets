@@ -1,0 +1,9 @@
+# @package _global_
+
+custom:
+  bids_dir: # write the path to the BIDS directory
+  l_freq                      : 0.1
+  h_freq                      : 40
+  pre_stim_time               : -0.5
+  post_stim_time              : 1.0
+  output_resolution           : 120
